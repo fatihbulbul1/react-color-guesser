@@ -20,8 +20,8 @@ Made by:
 
 ## Description 
 - Color guessing quiz app created by Vite, devoloped by React.
-- Game ends when 5 wrong guess made.
-- High score will be saved to local storage and update if i'll be beaten.
+- Game ends when 5 wrong guesses made.
+- High score will be saved to local storage and update if it'll be beaten.
 - Restart button for restart game.
 
 
